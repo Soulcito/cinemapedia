@@ -55,6 +55,8 @@ class _HomeViewState extends ConsumerState<_HomeView> {
           floating: true,
           flexibleSpace: FlexibleSpaceBar(
             title: CustomAppbar(),
+            titlePadding: EdgeInsets.zero,
+            centerTitle: true,
           ),
         ),
         SliverList(
