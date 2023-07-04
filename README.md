@@ -3,6 +3,7 @@
 # Dev
 
 1. Copiar el .env.template y renombrarlo a .env
+
    Copy and rename env.template as .env
 
 [Create your Api key in here...](https://www.themoviedb.org/)
